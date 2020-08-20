@@ -5,9 +5,17 @@ public class Test{
 		
 	}
 	
+
 	public int getId(Integer id)[
 	
 	
 }
+
+	public void m1(){
+		
+		
+	}
+	
+
 	
 }
