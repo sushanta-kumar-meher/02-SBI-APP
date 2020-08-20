@@ -8,4 +8,15 @@ public class Demo{
   }
   
   
+  
+  public String getEmpName(String ename){
+    
+   //logic
+    
+    
+    
+    
+  }
+  
+  
 }
