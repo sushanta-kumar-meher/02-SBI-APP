@@ -17,5 +17,11 @@ public class Test{
 	}
 	
 
-	
+	public int m3(){
+		
+		
+		
+	//logic	
+		
+	}
 }
